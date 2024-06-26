@@ -3,6 +3,12 @@
 ## Summary
 The CAMeL Arabic Frequency Lists dataset is derived from the pretraining datasets used to pretrain the family of [CAMeLBERT models](https://huggingface.co/collections/CAMeL-Lab/camelbert-653f42bfcbc8ae32a51a692d) (16.1M unique word types / 17.3B word tokens). Three main varieties of Arabic were used: Classical Arabic (CA), Dialectal Arabic (DA), and Modern Standard Arabic (MSA).
 
+**To download, please click on the link below**:
+- [CA_freq_lists.tsv.zip](https://github.com/CAMeL-Lab/Camel_Arabic_Frequency_Lists/releases/download/v1.0/CA_freq_lists.tsv.zip)
+- [DA_freq_lists.tsv.zip](https://github.com/CAMeL-Lab/Camel_Arabic_Frequency_Lists/releases/download/v1.0/DA_freq_lists.tsv.zip)
+- [MSA_freq_lists.tsv.zip](https://github.com/CAMeL-Lab/Camel_Arabic_Frequency_Lists/releases/download/v1.0/MSA_freq_lists.tsv.zip)
+- [MIX_freq_lists.tsv.zip](https://github.com/CAMeL-Lab/Camel_Arabic_Frequency_Lists/releases/download/v1.0/MIX_freq_lists.tsv.zip)
+
 For details about the different genres and sources of the data, please refer to the CAMeLBERT paper [here](https://aclanthology.org/2021.wanlp-1.10/).
 
 Each of the frequency list files contains unique types of Arabic only words along with their frequencies as they appeared in the pretraining data. We excluded digits, punctuation, and non-Arabic script tokens.
