@@ -4,10 +4,10 @@
 The CAMeL Arabic Frequency Lists dataset is derived from the pretraining datasets used to pretrain the family of [CAMeLBERT models](https://huggingface.co/collections/CAMeL-Lab/camelbert-653f42bfcbc8ae32a51a692d) (16.1M unique word types / 17.3B word tokens). Three main varieties of Arabic were used: Classical Arabic (CA), Dialectal Arabic (DA), and Modern Standard Arabic (MSA).
 
 **To download, please click on the link below**:
-- [CA_freq_lists.tsv.zip](https://github.com/CAMeL-Lab/Camel_Arabic_Frequency_Lists/releases/download/v1.0/CA_freq_lists.tsv.zip)
-- [DA_freq_lists.tsv.zip](https://github.com/CAMeL-Lab/Camel_Arabic_Frequency_Lists/releases/download/v1.0/DA_freq_lists.tsv.zip)
-- [MSA_freq_lists.tsv.zip](https://github.com/CAMeL-Lab/Camel_Arabic_Frequency_Lists/releases/download/v1.0/MSA_freq_lists.tsv.zip)
-- [MIX_freq_lists.tsv.zip](https://github.com/CAMeL-Lab/Camel_Arabic_Frequency_Lists/releases/download/v1.0/MIX_freq_lists.tsv.zip)
+- [CA_freq_lists.tsv.zip](https://github.com/CAMeL-Lab/Camel_Arabic_Frequency_Lists/releases/download/v1.0/CA_freq_lists.tsv.zip): Classical Arabic frequency list.
+- [DA_freq_lists.tsv.zip](https://github.com/CAMeL-Lab/Camel_Arabic_Frequency_Lists/releases/download/v1.0/DA_freq_lists.tsv.zip): Dialectal Arabic (mixed dialects) frequency list.
+- [MSA_freq_lists.tsv.zip](https://github.com/CAMeL-Lab/Camel_Arabic_Frequency_Lists/releases/download/v1.0/MSA_freq_lists.tsv.zip): Modern Standard Arabic frequency list.
+- [MIX_freq_lists.tsv.zip](https://github.com/CAMeL-Lab/Camel_Arabic_Frequency_Lists/releases/download/v1.0/MIX_freq_lists.tsv.zip): All CA+DA+MSA frequency list (NOT a concatenation)
 
 For details about the different genres and sources of the data, please refer to the CAMeLBERT paper [here](https://aclanthology.org/2021.wanlp-1.10/).
 
@@ -102,13 +102,6 @@ All files are tab-separated with the first column being the word in Arabic scrip
 كالمستهزىء	91
 
 ```
-
-- Folder contents
-  - `CA_freq_lists.tsv`  : Classical Arabic frequency list.
-  - `DA_freq_lists.tsv`  : Dialectal Arabic (mixed dialects) frequency list.
-  - `MSA_freq_lists.tsv` : Modern Standard Arabic frequency list.
-  - `MIX_freq_lists.tsv` : All CA+DA+MSA frequency list (NOT a concatenation)
-
 
 ## Citation
 ```
