@@ -7,7 +7,7 @@ The CAMeL Arabic Frequency Lists dataset is derived from the pretraining dataset
 - [CA_freq_lists.tsv.zip](https://github.com/CAMeL-Lab/Camel_Arabic_Frequency_Lists/releases/download/v1.0/CA_freq_lists.tsv.zip): Classical Arabic frequency list.
 - [DA_freq_lists.tsv.zip](https://github.com/CAMeL-Lab/Camel_Arabic_Frequency_Lists/releases/download/v1.0/DA_freq_lists.tsv.zip): Dialectal Arabic (mixed dialects) frequency list.
 - [MSA_freq_lists.tsv.zip](https://github.com/CAMeL-Lab/Camel_Arabic_Frequency_Lists/releases/download/v1.0/MSA_freq_lists.tsv.zip): Modern Standard Arabic frequency list.
-- [MIX_freq_lists.tsv.zip](https://github.com/CAMeL-Lab/Camel_Arabic_Frequency_Lists/releases/download/v1.0/MIX_freq_lists.tsv.zip): All CA+DA+MSA frequency list (NOT a concatenation)
+- [MIX_freq_lists.tsv.zip](https://github.com/CAMeL-Lab/Camel_Arabic_Frequency_Lists/releases/download/v1.0/MIX_freq_lists.tsv.zip): All CA+DA+MSA frequency list (a union of all three sets with frequencies aggregated)
 
 For details about the different genres and sources of the data, please refer to the CAMeLBERT paper [here](https://aclanthology.org/2021.wanlp-1.10/).
 
