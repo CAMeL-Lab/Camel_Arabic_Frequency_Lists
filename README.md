@@ -105,7 +105,7 @@ All files are tab-separated with the first column being the word in Arabic scrip
 
 ## Citation
 ```
-@software{Khalifa_Camel_Arabic_Frequency,
+@software{Khalifa:2021:Camel_Frequency,
 author = {Khalifa, Salam and Inoue, Go and Alhafni, Bashar and Baimukan, Nurpeiis and Bouamor, Houda and Habash, Nizar},
 title = {{Camel Arabic Frequency Lists }},
 year = 2021,
