@@ -1,0 +1,18 @@
+cff-version: 1.0.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Khalifa"
+  given-names: "Salam"
+- family-names: "Inoue"
+  given-names: "Go"
+- family-names: "Alhafni"
+  given-names: "Bashar"
+- family-names: "Baimukan"
+  given-names: "Nurpeiis"
+- family-names: "Bouamor"
+  given-names: "Houda"
+- family-names: "Habash"
+  given-names: "Nizar"
+title: "Camel Arabic Frequency Lists "
+date-released: 2021
+url: "https://github.com/CAMeL-Lab/Camel_Arabic_Frequency_Lists"
