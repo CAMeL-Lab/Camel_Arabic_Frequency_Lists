@@ -105,18 +105,11 @@ All files are tab-separated with the first column being the word in Arabic scrip
 
 ## Citation
 ```
-@inproceedings{inoue-etal-2021-interplay,
-    title = "The Interplay of Variant, Size, and Task Type in {A}rabic Pre-trained Language Models",
-    author = "Inoue, Go  and
-      Alhafni, Bashar  and
-      Baimukan, Nurpeiis  and
-      Bouamor, Houda  and
-      Habash, Nizar",
-    booktitle = "Proceedings of the Sixth Arabic Natural Language Processing Workshop",
-    month = apr,
-    year = "2021",
-    address = "Kyiv, Ukraine (Online)",
-    publisher = "Association for Computational Linguistics",
+@software{Khalifa_Camel_Arabic_Frequency,
+author = {Khalifa, Salam and Inoue, Go and Alhafni, Bashar and Baimukan, Nurpeiis and Bouamor, Houda and Habash, Nizar},
+title = {{Camel Arabic Frequency Lists }},
+year = 2021,
+url = {https://github.com/CAMeL-Lab/Camel_Arabic_Frequency_Lists}
 }
 ```
 
